@@ -7,6 +7,7 @@
 
 - 🎓 B.Sc. Computer Science — Aditya Group of Institutions
 - 💼 Ex-Operations Analyst @ HCL Technologies → Transitioning into Software Engineering
+- 🧑‍💻 1.5 Years Hands-on Experience as Java Full Stack Developer
 - 🏗️ Built production-ready projects using Java, Spring Boot, Microservices, and React.js
 - 📜 Certified Java Full Stack Developer — Skill It Academy
 - 🌱 Currently preparing for Oracle Certified Professional Java SE 8
